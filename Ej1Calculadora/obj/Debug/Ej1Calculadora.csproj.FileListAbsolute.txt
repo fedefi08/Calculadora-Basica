@@ -1,0 +1,10 @@
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\bin\Debug\Ej1Calculadora.exe.config
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\bin\Debug\Ej1Calculadora.exe
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\bin\Debug\Ej1Calculadora.pdb
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\obj\Debug\Ej1Calculadora.csproj.AssemblyReference.cache
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\obj\Debug\Ej1Calculadora.Form1.resources
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\obj\Debug\Ej1Calculadora.Properties.Resources.resources
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\obj\Debug\Ej1Calculadora.csproj.GenerateResource.cache
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\obj\Debug\Ej1Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\obj\Debug\Ej1Calculadora.exe
+C:\Users\fede_\source\repos\Ej1Calculadora\Ej1Calculadora\obj\Debug\Ej1Calculadora.pdb
